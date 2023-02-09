@@ -7,12 +7,14 @@
 #main
 
 print_fuctions () { 
- cat /var/log/auth.log   
-    }
-print_fuctions
-var_change () {
-    local var1=local 1
+ tail /var/log/auth.log   
 }
+
+print_fuctions
+
+var="Working dog"
+
+echo $var
 
 
 
