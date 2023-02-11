@@ -4,6 +4,8 @@
 # Sierra Maldonado
 # 10Feb23
 
+#main
+
 while true; do
     # Display running processes
     echo "ps -ef"
@@ -14,3 +16,5 @@ while true; do
     kill -9 $pid
     # Confirm that the process was killed
 done
+
+# end
