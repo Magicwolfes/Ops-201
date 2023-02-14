@@ -3,7 +3,8 @@
 # 13Feb23
 #
 # Create a script that detects if a file or directory exists, then creates it if it does not exist.
-
+# I worked with Geneva and Justin H
+# We used chat GBT to get started but ended up almost changing the entire script to get the result we wanted
 # Main
 
 
