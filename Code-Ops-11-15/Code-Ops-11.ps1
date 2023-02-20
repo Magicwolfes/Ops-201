@@ -13,7 +13,7 @@ New-NetFirewallRule -DisplayName "Allow ICMPv4-In" -Protocol 1 -IcmpType 8 -Enab
 Enable-PSRemoting -Force
 
 # Remove bloatware
-iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
+Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
 
 # Enable Hyper-V
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
