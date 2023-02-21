@@ -2,7 +2,7 @@
 # 21Feb23
 # Selet-string
 # Worked with Justin H and Geneva 
-
+# https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/select-string?view=powershell-7.3&viewFallbackFrom=powershell-7.1
 
 #main
 
