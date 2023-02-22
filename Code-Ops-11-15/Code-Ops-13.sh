@@ -2,7 +2,7 @@
 # Sierra Maldonado
 # 22Feb23
 # https://www.howtogeek.com/680086/how-to-use-the-whois-command-on-linux/
-
+# a little git of ChatGBT, to find out why it wasnt working
 
 
 # Sudo apt-get install whois
