@@ -10,7 +10,7 @@
 # Sierra Maldonado
 # 22Feb23
 # https://www.howtogeek.com/680086/how-to-use-the-whois-command-on-linux/
-
+# worked wiht Justin H and Geneva M-N-M
 
 
 # Sudo apt-get install whois
