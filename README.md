@@ -13,4 +13,4 @@
 | 210 | [10-Code ](https://github.com/Magicwolfes/Ops-201/blob/main/Code/Code-Ops-1-10/Code-Ops-10.ps1) | Powershell |
 | 211 | [11-Code ](https://github.com/Magicwolfes/Ops-201/blob/main/Code/Code-Ops-11-15/Code-Ops-11.ps1) | Powershell Pt2 |
 | 212 | [12-Code ](https://github.com/Magicwolfes/Ops-201/blob/main/Code/Code-Ops-11-15/Code-Ops-12.ps1) | Selet-String |
-| 213 | [13-Code }(https://github.com/Magicwolfes/Ops-201/blob/main/Code/Code-Ops-11-15/Code-Ops-13.sh) | WHO IS | 
+| 213 | [13-Code ]https://github.com/Magicwolfes/Ops-201/blob/main/Code/Code-Ops-11-15/Code-Ops-13.sh) | WHO IS | 
